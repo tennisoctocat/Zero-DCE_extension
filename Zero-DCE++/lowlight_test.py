@@ -7,7 +7,6 @@ import os
 import sys
 import argparse
 import time
-import dataloader
 import model
 import numpy as np
 from torchvision import transforms
